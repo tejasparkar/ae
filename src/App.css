@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.mobnav a {
+  display: block;
+  position: relative;
+  color: #151515;
+  padding: 10px 20px;
+  font-weight: 500;
+  outline: none;
+}
