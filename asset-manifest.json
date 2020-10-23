@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tejasparkar/ae/static/css/main.c44fd574.chunk.css",
+    "main.js": "/tejasparkar/ae/static/js/main.82e8e60b.chunk.js",
+    "main.js.map": "/tejasparkar/ae/static/js/main.82e8e60b.chunk.js.map",
+    "runtime-main.js": "/tejasparkar/ae/static/js/runtime-main.05dcae01.js",
+    "runtime-main.js.map": "/tejasparkar/ae/static/js/runtime-main.05dcae01.js.map",
+    "static/js/2.70209548.chunk.js": "/tejasparkar/ae/static/js/2.70209548.chunk.js",
+    "static/js/2.70209548.chunk.js.map": "/tejasparkar/ae/static/js/2.70209548.chunk.js.map",
+    "index.html": "/tejasparkar/ae/index.html",
+    "precache-manifest.b99b7ee30e17147fe2ffc00760e8b3a8.js": "/tejasparkar/ae/precache-manifest.b99b7ee30e17147fe2ffc00760e8b3a8.js",
+    "service-worker.js": "/tejasparkar/ae/service-worker.js",
+    "static/css/main.c44fd574.chunk.css.map": "/tejasparkar/ae/static/css/main.c44fd574.chunk.css.map",
+    "static/js/2.70209548.chunk.js.LICENSE.txt": "/tejasparkar/ae/static/js/2.70209548.chunk.js.LICENSE.txt",
+    "static/media/ae.svg": "/tejasparkar/ae/static/media/ae.4056a1eb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05dcae01.js",
+    "static/js/2.70209548.chunk.js",
+    "static/css/main.c44fd574.chunk.css",
+    "static/js/main.82e8e60b.chunk.js"
+  ]
+}
